@@ -15,3 +15,10 @@ run the code `python test.py --dataroot ./datasets/summer2winter_yosemite --name
 Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh to train.  
 Our examples:
 ![](CycleGAN.png)
+
+**BeautyGAN**  
+In BeautyGAN folder, run the code  
+
+Our examples:  
+![](BGAN1.jpg)
+![](BGAN2.jpg)
