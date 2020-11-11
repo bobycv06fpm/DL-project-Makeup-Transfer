@@ -7,6 +7,7 @@ We choose baseline in two aspects. First is image-to-image method which contains
 In DeepImageAnalogy folder, run the code using `python DeepImageAnalogy.py`. Results will be saved in the `Results/` folder.  
 Our examples:  
 ![](DIA1.png)
+<img src="DIA1.png" width="800" height="400" align="bottom" />
 ![](DIA2.png)
 
 **CycleGAN**   
