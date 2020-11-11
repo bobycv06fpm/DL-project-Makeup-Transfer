@@ -40,7 +40,7 @@ In BeautyGAN folder, run the code with
 ```bash
 python main.py
 ``` 
-Also there is BeautyGAN pretrain model, model are saved in https://drive.google.com/file/d/1IHMzr6lSNGZndixqw6l2u--e9rl-aXac/view?usp=sharing
+Also there is BeautyGAN pretrain model, model are saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing
 Unzip and put it in BeautyGAN_pretrain folder.
 run the code with 
 ```bash
