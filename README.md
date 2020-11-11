@@ -35,8 +35,11 @@ Our examples:
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
 **BeautyGAN**  
-In BeautyGAN folder, run the code  
-
+In BeautyGAN folder, run the code with
+```bash
+python main.py
+``` 
+Data can be retrieved from 
 Our examples:  
 ![](BGAN1.jpg)
 ![](BGAN2.jpg)
