@@ -9,7 +9,7 @@ Our examples:
 ![](DIA1.png)
 ![](DIA2.png)
 
-**CycleGAN**
+**CycleGAN**   
 In CycleGAN folder, run the code `python train.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan` to train.  
 run the code `python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan`.  
-Results will be saved in the `Results/` folder.  
+Results will be saved in the `results/` folder.  
