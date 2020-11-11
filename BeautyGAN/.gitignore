@@ -1,2 +1,7 @@
-.DS_Store
-model/
+.idea/
+__pycache__/
+output/
+preTrainedModel/
+all/
+*.rar
+*.txt
