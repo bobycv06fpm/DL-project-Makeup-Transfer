@@ -4,4 +4,4 @@
 We choose baseline in two aspects. First is image-to-image method which contains Deep Image Analogy and CycleGAN. Second is the makeup transfer method called BeautyGAN.
 
 **Deep Image Analogy**<br/>
-In DeepImageAnalogy folder, the entrance of code is DeepImageAnalogy.py. david2.jpg and felix2.jpg 
+In DeepImageAnalogy folder, run the code using `python DeepImageAnalogy.py`.
