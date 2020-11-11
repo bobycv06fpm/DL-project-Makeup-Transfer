@@ -1,9 +1,9 @@
 # DL-project-Makeup-Transfer
-## Authors: Jingyan Dai(jingyand) Anyu Chen(anyuc)
+## Baseline Models
 
 We choose baseline in two aspects. First is image-to-image method which contains Deep Image Analogy and CycleGAN. Second is the makeup transfer method called BeautyGAN.
 
-**Deep Image Analogy**   
+### Deep Image Analogy
 In DeepImageAnalogy folder, run the code:
 ```bash
 python DeepImageAnalogy.py
@@ -13,7 +13,7 @@ Our examples:
 <img src="DIA1.png" width="800" height="200" align="bottom" />
 <img src="DIA2.png" width="800" height="200" align="bottom" />
 
-**CycleGAN**   
+### CycleGAN   
 In CycleGAN folder, train the model with:
 ```bash
 python train.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan
@@ -34,9 +34,12 @@ Results will be saved in the `results/` folder. We also use style_monet, style_c
 Our examples:  
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
-**BeautyGAN**  
-In BeautyGAN folder, run the code  
-
+### BeautyGAN
+Data can be retrieved from   
+In BeautyGAN folder, run the code with
+```bash
+python main.py
+``` 
 Our examples:  
 ![](BGAN1.jpg)
 ![](BGAN2.jpg)
