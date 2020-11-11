@@ -35,7 +35,8 @@ Our examples:
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
 ### BeautyGAN
-Data can be retrieved from   
+Data can be retrieved from https://drive.google.com/file/d/1Tfl-hQPIBDUjXZRePVoF4kzd1oSpoPKn/view?usp=sharing  
+Pretrain vgg16 can be retrieved from 
 In BeautyGAN folder, run the code with
 ```bash
 python main.py
