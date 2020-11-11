@@ -24,7 +24,7 @@ python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter
 ```   
 Also there are pretrain models can be retrieved using code:
 ```bash
-bash ./scripts/download_cyclegan_model.sh summer2winter_yosemite`
+bash ./scripts/download_cyclegan_model.sh summer2winter_yosemite
 ``` 
 To generate result, run the code:
 ```bash
