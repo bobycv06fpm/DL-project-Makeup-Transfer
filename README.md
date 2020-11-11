@@ -34,12 +34,12 @@ Results will be saved in the `results/` folder. We also use style_monet, style_c
 Our examples:  
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
-**BeautyGAN**  
+**BeautyGAN**
+Data can be retrieved from   
 In BeautyGAN folder, run the code with
 ```bash
 python main.py
 ``` 
-Data can be retrieved from 
 Our examples:  
 ![](BGAN1.jpg)
 ![](BGAN2.jpg)
