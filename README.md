@@ -40,6 +40,11 @@ In BeautyGAN folder, run the code with
 ```bash
 python main.py
 ``` 
+Also in BeautyGAN_pretrain folder, model are saved in ,put model in `model/` subfolder.
+run the code with 
+```bash
+python main.py
+```
 Our examples:  
 ![](BGAN1.jpg)
 ![](BGAN2.jpg)
