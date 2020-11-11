@@ -35,11 +35,11 @@ Our examples:
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
 ### BeautyGAN
-Data can be retrieved from   
-In BeautyGAN folder, run the code with
+There is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
+Unzip it and put it in BeautyGAN folder. Run the code with 
 ```bash
-python main.py
-``` 
+python main.py --nomake_up 1.jpg
+```
 Our examples:  
 ![](BGAN1.jpg)
 ![](BGAN2.jpg)
