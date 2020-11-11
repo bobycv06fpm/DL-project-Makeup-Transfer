@@ -14,7 +14,8 @@ In CycleGAN folder, run the code `python train.py --dataroot ./datasets/summer2w
 run the code `python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan` to test.  
 Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh to train.  
 Our examples:
-![{:height="100" width="100"}](CycleGAN.png)
+![](CycleGAN.png)
+<img src="CycleGAN.png" alt="图片替换文本" width="100" height="30" align="bottom" />
 
 **BeautyGAN**  
 In BeautyGAN folder, run the code  
