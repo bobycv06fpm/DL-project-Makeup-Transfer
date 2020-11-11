@@ -6,8 +6,8 @@ We choose baseline in two aspects. First is image-to-image method which contains
 **Deep Image Analogy**   
 In DeepImageAnalogy folder, run the code using `python DeepImageAnalogy.py`. Results will be saved in the `Results/` folder.  
 Our examples:  
-<img src="DIA1.png" width="500" height="800" align="bottom" />
-<img src="DIA2.png" width="500" height="800" align="bottom" />
+![](DIA1.jpg)
+![](DIA2.jpg)
 
 **CycleGAN**   
 In CycleGAN folder, run the code `python train.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan` to train.  
