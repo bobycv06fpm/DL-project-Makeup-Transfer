@@ -12,7 +12,9 @@ Our examples:
 **CycleGAN**   
 In CycleGAN folder, run the code `python train.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan` to train.  
 run the code `python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan` to test.  
-Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh to train.  
+Also there are pretrain models can be retrieved code `bash ./scripts/download_cyclegan_model.sh summer2winter_yosemite`.  
+To generate result, run the code `python test.py --dataroot datasets/Try --name summer2winter_pretrained --model test --no_dropout`.  
+Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh.  
 Our examples:  
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
