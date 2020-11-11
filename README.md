@@ -35,14 +35,8 @@ Our examples:
 <img src="CycleGAN.png" width="600" height="400" align="bottom" />
 
 ### BeautyGAN
-Data can be retrieved from https://drive.google.com/file/d/1Tfl-hQPIBDUjXZRePVoF4kzd1oSpoPKn/view?usp=sharing  
-Pretrain vgg16 can be retrieved from 
-In BeautyGAN folder, run the code with
-```bash
-python main.py
-``` 
-Also there is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
-Unzip it and put it in BeautyGAN_pretrain folder. Run the code with 
+There is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
+Unzip it and put it in BeautyGAN folder. Run the code with 
 ```bash
 python main.py --nomake_up 1.jpg
 ```
