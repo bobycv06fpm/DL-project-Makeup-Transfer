@@ -22,7 +22,7 @@ test the model with:
 ```bash
 python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan
 ```   
-Also there are pretrain models can be retrieved code:
+Also there are pretrain models can be retrieved using code:
 ```bash
 bash ./scripts/download_cyclegan_model.sh summer2winter_yosemite`
 ``` 
