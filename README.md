@@ -2,7 +2,7 @@
 ### Model for Project - PSGAN
 We use Makeup Transfer for training which is saved in  
 Download it, unzip it and put it in PSGAN folder and name the subfolder `data`  
-You can also use Makeup-Wild data to test which is saved in   
+You can also use Makeup-Wild data to test which is saved in https://drive.google.com/file/d/1bWGAvG8xL2wQf0H4pxBBEdSn6LcWVCDO/view?usp=sharing  
 
 In the PSGAN folder, train the model using  
 ```bash
