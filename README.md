@@ -27,8 +27,7 @@ To generate result, run the code:
 ```bash
 python test.py --dataroot datasets/Try --name summer2winter_pretrained --model test --no_dropout
 ```
-Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh.  
-
+Results will be saved in the `results/` folder.
 
 ### BeautyGAN
 There is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
