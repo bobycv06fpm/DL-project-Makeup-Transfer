@@ -9,9 +9,6 @@ In DeepImageAnalogy folder, run the code:
 python DeepImageAnalogy.py
 ```
 Results will be saved in the `Results/` folder.  
-Our examples:  
-<img src="DIA1.png" width="800" height="200" align="bottom" />
-<img src="DIA2.png" width="800" height="200" align="bottom" />
 
 ### CycleGAN   
 In CycleGAN folder, train the model with:
@@ -31,8 +28,7 @@ To generate result, run the code:
 python test.py --dataroot datasets/Try --name summer2winter_pretrained --model test --no_dropout
 ```
 Results will be saved in the `results/` folder. We also use style_monet, style_cezanne, style_ukiyoe, style_vangogh.  
-Our examples:  
-<img src="CycleGAN.png" width="600" height="400" align="bottom" />
+
 
 ### BeautyGAN
 There is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
@@ -40,6 +36,3 @@ Unzip it and put it in BeautyGAN folder. Run the code with
 ```bash
 python main.py --nomake_up 1.jpg
 ```
-Our examples:  
-![](BGAN1.jpg)
-![](BGAN2.jpg)
