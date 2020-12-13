@@ -15,8 +15,8 @@ Test the model with:
 python3 test.py 
 ```
 Our example:  
-<img src="psgan1.png" width="800" height="200" align="bottom" />
-<img src="psgan2.png" width="800" height="200" align="bottom" />
+<img src="psgan1.png" width="600" height="200" align="bottom" />
+<img src="psgan2.png" width="600" height="200" align="bottom" />
 
 ### Baseline Model - BeautyGAN
 There is a BeautyGAN pretrain model, model is saved in https://drive.google.com/file/d/1Y-XDe8DLGFiChCGkJ1s8jxQ8aQrE5SpK/view?usp=sharing  
