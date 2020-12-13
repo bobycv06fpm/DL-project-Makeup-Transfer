@@ -1,5 +1,5 @@
 # DL-project-Makeup-Transfer
-### Model for the project - PSGAN
+### Model for Project - PSGAN
 
 
 ### Baseline Model - BeautyGAN
