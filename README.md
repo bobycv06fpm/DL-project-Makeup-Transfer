@@ -18,7 +18,7 @@ In CycleGAN folder, train the model with:
 ```bash
 python train.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan
 ``` 
-test the model with:
+Test the model with:
 ```bash
 python test.py --dataroot ./datasets/summer2winter_yosemite --name summer2winter_yosemite_cyclegan --model cycle_gan
 ```   
