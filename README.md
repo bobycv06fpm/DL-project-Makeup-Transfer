@@ -8,3 +8,5 @@ Unzip it and put it in BeautyGAN folder. Run the code with
 ```bash
 python main.py --nomake_up 1.jpg
 ```
+Our example:  
+![](beautygan.jpg)
