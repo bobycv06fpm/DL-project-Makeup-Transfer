@@ -1,4 +1,4 @@
-# DL-project-Makeup-Transfer
+# DL-Project-Makeup-Transfer with Pose and Expression Robust
 ### Model for Project - PSGAN
 We use Makeup Transfer for training which is saved in https://drive.google.com/file/d/12CjvJfNCAmBwHPNL5w3Fqof23gjCo6Yi/view?usp=sharing Download it, unzip it and put it in PSGAN folder and name the subfolder `data`  
 
